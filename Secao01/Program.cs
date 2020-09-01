@@ -60,6 +60,7 @@ namespace Secao01
                 }
             } while (decisao != 0);
         }
+
         static void Exercicio_1_1()
         {
             Console.Clear();

@@ -1,0 +1,13 @@
+C:\git\rocket-oop-csharp\Secao02\bin\Debug\netcoreapp3.1\Secao02.exe
+C:\git\rocket-oop-csharp\Secao02\bin\Debug\netcoreapp3.1\Secao02.deps.json
+C:\git\rocket-oop-csharp\Secao02\bin\Debug\netcoreapp3.1\Secao02.runtimeconfig.json
+C:\git\rocket-oop-csharp\Secao02\bin\Debug\netcoreapp3.1\Secao02.runtimeconfig.dev.json
+C:\git\rocket-oop-csharp\Secao02\bin\Debug\netcoreapp3.1\Secao02.dll
+C:\git\rocket-oop-csharp\Secao02\bin\Debug\netcoreapp3.1\Secao02.pdb
+C:\git\rocket-oop-csharp\Secao02\obj\Debug\netcoreapp3.1\Secao02.csprojAssemblyReference.cache
+C:\git\rocket-oop-csharp\Secao02\obj\Debug\netcoreapp3.1\Secao02.AssemblyInfoInputs.cache
+C:\git\rocket-oop-csharp\Secao02\obj\Debug\netcoreapp3.1\Secao02.AssemblyInfo.cs
+C:\git\rocket-oop-csharp\Secao02\obj\Debug\netcoreapp3.1\Secao02.csproj.CoreCompileInputs.cache
+C:\git\rocket-oop-csharp\Secao02\obj\Debug\netcoreapp3.1\Secao02.dll
+C:\git\rocket-oop-csharp\Secao02\obj\Debug\netcoreapp3.1\Secao02.pdb
+C:\git\rocket-oop-csharp\Secao02\obj\Debug\netcoreapp3.1\Secao02.genruntimeconfig.cache
