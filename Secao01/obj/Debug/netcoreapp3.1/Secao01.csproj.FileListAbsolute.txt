@@ -1,0 +1,13 @@
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\bin\Debug\netcoreapp3.1\Secao01.exe
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\bin\Debug\netcoreapp3.1\Secao01.deps.json
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\bin\Debug\netcoreapp3.1\Secao01.runtimeconfig.json
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\bin\Debug\netcoreapp3.1\Secao01.runtimeconfig.dev.json
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\bin\Debug\netcoreapp3.1\Secao01.dll
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\bin\Debug\netcoreapp3.1\Secao01.pdb
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\obj\Debug\netcoreapp3.1\Secao01.AssemblyInfoInputs.cache
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\obj\Debug\netcoreapp3.1\Secao01.AssemblyInfo.cs
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\obj\Debug\netcoreapp3.1\Secao01.csproj.CoreCompileInputs.cache
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\obj\Debug\netcoreapp3.1\Secao01.dll
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\obj\Debug\netcoreapp3.1\Secao01.pdb
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\obj\Debug\netcoreapp3.1\Secao01.genruntimeconfig.cache
+C:\git\rocketProgramacaoOrientadaObjetosCsharp\Secao01\obj\Debug\netcoreapp3.1\Secao01.csprojAssemblyReference.cache
