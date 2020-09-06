@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao05", "Secao05\Secao05.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao06", "Secao06\Secao06.csproj", "{E8863246-0286-41B5-8158-65BC970DA0C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao09", "Secao09\Secao09.csproj", "{749454D7-352E-4F83-BF95-43D4F15668C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao09", "Secao09\Secao09.csproj", "{749454D7-352E-4F83-BF95-43D4F15668C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao10", "Secao10\Secao10.csproj", "{AAE73C8F-A486-41D8-A9D8-8C070D4FF25A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{749454D7-352E-4F83-BF95-43D4F15668C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{749454D7-352E-4F83-BF95-43D4F15668C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{749454D7-352E-4F83-BF95-43D4F15668C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE73C8F-A486-41D8-A9D8-8C070D4FF25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE73C8F-A486-41D8-A9D8-8C070D4FF25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE73C8F-A486-41D8-A9D8-8C070D4FF25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE73C8F-A486-41D8-A9D8-8C070D4FF25A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
