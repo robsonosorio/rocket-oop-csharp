@@ -5,9 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Exercicios\Exercicio_02_\Entities\" />
-    <Folder Include="Exercicios\Exercicio_03\Entities\" />
-  </ItemGroup>
-
 </Project>

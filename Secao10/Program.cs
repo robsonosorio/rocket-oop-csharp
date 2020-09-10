@@ -1,4 +1,5 @@
 ﻿using Secao10.Exercicios.Exercicio_01_Heranca;
+using Secao10.Exercicios.Exercicio_02_Heranca;
 using System;
 
 namespace Secao10
@@ -26,6 +27,11 @@ namespace Secao10
                     case 1:
                         var ex1 = new Exercicio_01_Heranca();
                         ex1.Exercicio();
+                        Console.ReadKey();
+                        break;
+                    case 2:
+                        var ex2 = new Exercicio_02_Heranca();
+                        ex2.Exercicio();
                         Console.ReadKey();
                         break;
                     case 0:
